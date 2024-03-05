@@ -1,4 +1,4 @@
-![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/e4706c16-bae1-4b66-b6b3-95fcaf618e44)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/44b97984-b153-4d78-b16d-c14d4ae05256)# Image segmentation for wheats using SOTA Models
+![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/13cb82c2-81a5-4696-873f-f88c2a3a6c4c)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/888a4a7c-827d-48af-b1bb-96310eafdc1c)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/e4706c16-bae1-4b66-b6b3-95fcaf618e44)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/44b97984-b153-4d78-b16d-c14d4ae05256)# Image segmentation for wheats using SOTA Models
 
 ## Objectives
    - Develop an image segmentation vision app using SOTA models
@@ -31,6 +31,21 @@ Test: 10 images
     <img src="https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s2.png" alt="Image 2" width="200"/>
     <img src="https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s3.png" alt="Image 3" width="200"/>
 </div>
+
+### The annotation doesn’t fully based on ai tool so we used polygon.
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/prob.png)
+
+### Number of annotations examples 
+| Number og images   | Number of annotations |
+| ------------------ | ----------------------|
+| 27                 | 875                   |
+|49                  | 1766                  |
+| 138                | 4893                  |
+
+### Choose the best annotated format from CVAT 
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/JSON.png)
+![2](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/MASK.png)
+
 
 
 
