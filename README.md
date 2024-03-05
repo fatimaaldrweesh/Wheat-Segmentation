@@ -7,4 +7,4 @@
    - Use onnxruntime to accelerate inference time
 
 ## Pipline
-![1](https://github.com/nooralsmadi/JordanAntiquities/blob/main/Data/001.jpg)
+![1]((https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/pipline.png)https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/pipline.png)
