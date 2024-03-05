@@ -16,8 +16,10 @@ Test   : 10 images
 
 ## Image Segmentation
 We used CVAT to annotate our image. 
+
 ![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/cvat.png)
-In CVAT there are three methods to annotate images: polygon, ai tool, using pre-trained model. 
+
+In CVAT there are three methods to annotate images: polygon, ai tool, and using pre-trained model. 
 
 
 
