@@ -46,6 +46,29 @@ Test: 10 images
 ![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/JSON.png)
 ![2](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/MASK.png)
 
+## Augmentation
+- It is a process to increase the number of training data. 
+- This process is changes based on the training model we used.
+ - We will explained in details in the next section. 
+
+## Models:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/models.png)
+
+### YOLOn8-seg:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/yolo.png)
+
+### UNET from scratch:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/unet%20scratch.png)
+
+### UNET fine tunning:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/unet%20finetune.png)
+
+### SAM:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/sam.png)
+
+
+
+
 
 
 
