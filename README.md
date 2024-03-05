@@ -5,3 +5,6 @@
    - Evaluate multiple SOTA models: Yolov8-seg, SAM model, U-Net
    - Compare and analyze the performance of each model
    - Use onnxruntime to accelerate inference time
+
+## Pipline
+![1](https://github.com/nooralsmadi/JordanAntiquities/blob/main/Data/001.jpg)
