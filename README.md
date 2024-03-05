@@ -26,9 +26,11 @@ Test: 10 images
 ![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/ai%20tool.png)
 
 ### Samples from annotation using ai tool. 
-![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s1.png)
-![2](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s2.png)
-![3](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s3.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s1.png" alt="Image 1" width="200"/>
+    <img src="https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s2.png" alt="Image 2" width="200"/>
+    <img src="https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/s3.png" alt="Image 3" width="200"/>
+</div>
 
 
 
