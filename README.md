@@ -89,8 +89,21 @@ Test: 10 images
 ![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/sam%20result.png)
 
 ## Save the Weights:
+- For YOLOv8-seg we saved the best weights in “.pt” format.
+- For U-Net we saved the best weights in “.h5” format.
+- For SAM we saved the best weights in “.pth” format.
 
 ## ONNX inference: 
+### YOLOv8-seg onnx inference:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/onnx.jpg)
+| Model         | size               |map(box)         | map(mask)     | ONNX speed (ms) | 
+|---------------|--------------------|-----------------|---------------|------------|
+| YOLOv8n-seg   |   640              |    0.84         |    0.897      |612.7       |
+| YOLOv8s-seg   |   640              |     0.859       |     0.898     |470.8       |
+| YOLOv8m-seg   |     640            |      0.856      |      0.897    |273.2       |
+| YOLOv8l-seg   |     640            |        0.85     |     0.91      |5477.7      |
+
+
 
 
 
