@@ -1,4 +1,4 @@
-![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/13cb82c2-81a5-4696-873f-f88c2a3a6c4c)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/888a4a7c-827d-48af-b1bb-96310eafdc1c)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/e4706c16-bae1-4b66-b6b3-95fcaf618e44)![image](https://github.com/fatimaaldrweesh/Wheat-Segmentation/assets/63796712/44b97984-b153-4d78-b16d-c14d4ae05256)# Image segmentation for wheats using SOTA Models
+# Image segmentation for wheats using SOTA Models
 
 ## Objectives
    - Develop an image segmentation vision app using SOTA models
@@ -65,6 +65,32 @@ Test: 10 images
 
 ### SAM:
 ![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/sam.png)
+
+## Model Evaluation:
+### YOLOv8l-seg:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/yolotable.png)
+
+![2](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/yolo%20cm.png)
+
+![3](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/yolo%20result.png)
+
+![4](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/yolo%20result2.png)
+
+### UNET: 
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/unet%20table.png)
+
+#### UNET from scratch learning curve:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/unet%20r%20scratch.jpg)
+
+#### UNET fine tunning learning curve:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/unet%20r%20fine.png)
+
+### SAM:
+![1](https://github.com/fatimaaldrweesh/Wheat-Segmentation/blob/main/Data/sam%20result.png)
+
+## Save the Weights:
+
+## ONNX inference: 
 
 
 
